@@ -1,0 +1,13 @@
+## R files ##
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user
+
+## git files
+.git
+.gitignore
+
+## readme and text files just there for help
+README.md
+LICENSE.txt
